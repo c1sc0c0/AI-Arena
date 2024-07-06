@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thumbnail on My New Hugo Site</title>
-    <link>/AI-Arena/tags/thumbnail/</link>
+    <link>https://c1sc0c0.github.io/AI-Arena/tags/thumbnail/</link>
     <description>Recent content in Thumbnail on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/AI-Arena/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://c1sc0c0.github.io/AI-Arena/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guide to Thumbnails in Hugo</title>
-      <link>/AI-Arena/post/image-test/</link>
+      <link>https://c1sc0c0.github.io/AI-Arena/post/image-test/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/AI-Arena/post/image-test/</guid>
+      <guid>https://c1sc0c0.github.io/AI-Arena/post/image-test/</guid>
       
         <description>Guide to Thumbnails in Hugo</description>
       
