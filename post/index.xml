@@ -6,13 +6,25 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jul 2024 15:00:00 +0000</lastBuildDate><atom:link href="https://c1sc0c0.github.io/AI-Arena/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://c1sc0c0.github.io/AI-Arena/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PUZZLE 2 : Part 1/3 : TASK</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-002-1/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-002-1/</guid>
+      
+        <description>Solve the following puzzle. There are several example input/output pairs. Your goal is to provide the correct output for the last test input.
+Example Input 1 Example Output 1 Example Input 2 Example Output 2 Test Input (Solve This) </description>
+      
+    </item>
+    
     <item>
       <title>PUZZLE 1 : Part 3/3 : DISCUSSION : Patterns in ARC-AGI</title>
-      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-2024-07-06/</link>
-      <pubDate>Sat, 06 Jul 2024 15:00:00 +0000</pubDate>
+      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-3/</link>
+      <pubDate>Thu, 04 Jul 2024 02:00:00 +0000</pubDate>
       
-      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-2024-07-06/</guid>
+      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-3/</guid>
       
         <description>This puzzle was taken from the ARC-AGI dataset &amp;amp; includes tests that we would expect an AGI to be able to solve easily. Recognising patterns means finding things that repeat or look similar in a group of things, like spotting shapes in the clouds or finding the same picture in a puzzle.
 It&amp;rsquo;s hard for computers because they need to understand the context, deal with messy or missing information, and learn from just a few examples.</description>
@@ -21,13 +33,25 @@ It&amp;rsquo;s hard for computers because they need to understand the context, d
     
     <item>
       <title>PUZZLE 1 : Part 2/3 : SOLUTION : Patterns in ARC-AGI</title>
-      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-2024-07-05/</link>
-      <pubDate>Fri, 05 Jul 2024 15:00:00 +0000</pubDate>
+      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-2/</link>
+      <pubDate>Thu, 04 Jul 2024 01:00:00 +0000</pubDate>
       
-      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-2024-07-05/</guid>
+      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-2/</guid>
       
         <description>Below is the correct input / output for this puzzle. As you can see you need to recognise that there is a repeating pattern. This task is very easy for humans but can easily fool computers.
 Input (Task) Output (Solution) </description>
+      
+    </item>
+    
+    <item>
+      <title>PUZZLE 2 : Part 1/3 : TASK : Patterns in ARC-AGI</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-1/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-1/</guid>
+      
+        <description>Solve the following puzzle. There are several example input/output pairs. Your goal is to provide the correct output for the last test input.
+Example Input 1 Example Output 1 Example Input 2 Example Output 2 Example Input 3 Example Output 3 Test Input (Solve This) </description>
       
     </item>
     
