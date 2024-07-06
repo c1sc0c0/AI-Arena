@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>/tags/</link>
+    <link>/AI-Arena/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/AI-Arena/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
-      <link>/tags/index/</link>
+      <link>/AI-Arena/tags/index/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/index/</guid>
+      <guid>/AI-Arena/tags/index/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Puzzle</title>
-      <link>/tags/puzzle/</link>
+      <link>/AI-Arena/tags/puzzle/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/puzzle/</guid>
+      <guid>/AI-Arena/tags/puzzle/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Solution</title>
-      <link>/tags/solution/</link>
+      <link>/AI-Arena/tags/solution/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/solution/</guid>
+      <guid>/AI-Arena/tags/solution/</guid>
       
         <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Demo</title>
-      <link>/tags/demo/</link>
+      <link>/AI-Arena/tags/demo/</link>
       <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/AI-Arena/tags/demo/</guid>
       
         <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Shortcode</title>
-      <link>/tags/shortcode/</link>
+      <link>/AI-Arena/tags/shortcode/</link>
       <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
       
-      <guid>/tags/shortcode/</guid>
+      <guid>/AI-Arena/tags/shortcode/</guid>
       
         <description></description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Redirect</title>
-      <link>/tags/redirect/</link>
+      <link>/AI-Arena/tags/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/redirect/</guid>
+      <guid>/AI-Arena/tags/redirect/</guid>
       
         <description></description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>RedirectUrl</title>
-      <link>/tags/redirecturl/</link>
+      <link>/AI-Arena/tags/redirecturl/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/redirecturl/</guid>
+      <guid>/AI-Arena/tags/redirecturl/</guid>
       
         <description></description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>Css</title>
-      <link>/tags/css/</link>
+      <link>/AI-Arena/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/css/</guid>
+      <guid>/AI-Arena/tags/css/</guid>
       
         <description></description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>Html</title>
-      <link>/tags/html/</link>
+      <link>/AI-Arena/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>/AI-Arena/tags/html/</guid>
       
         <description></description>
       
@@ -108,10 +108,10 @@
     
     <item>
       <title>Markdown</title>
-      <link>/tags/markdown/</link>
+      <link>/AI-Arena/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/markdown/</guid>
+      <guid>/AI-Arena/tags/markdown/</guid>
       
         <description></description>
       
@@ -119,10 +119,10 @@
     
     <item>
       <title>Text</title>
-      <link>/tags/text/</link>
+      <link>/AI-Arena/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/text/</guid>
+      <guid>/AI-Arena/tags/text/</guid>
       
         <description></description>
       
@@ -130,10 +130,10 @@
     
     <item>
       <title>Emoji</title>
-      <link>/tags/emoji/</link>
+      <link>/AI-Arena/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/emoji/</guid>
+      <guid>/AI-Arena/tags/emoji/</guid>
       
         <description></description>
       
@@ -141,10 +141,10 @@
     
     <item>
       <title>Thumbnail</title>
-      <link>/tags/thumbnail/</link>
+      <link>/AI-Arena/tags/thumbnail/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/thumbnail/</guid>
+      <guid>/AI-Arena/tags/thumbnail/</guid>
       
         <description></description>
       

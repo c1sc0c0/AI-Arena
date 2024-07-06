@@ -2,97 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>/AI-Arena/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/index/</loc>
+    <loc>/AI-Arena/tags/index/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>/AI-Arena/post/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/puzzle/</loc>
+    <loc>/AI-Arena/tags/puzzle/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/fresh/</loc>
+    <loc>/AI-Arena/post/fresh/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/AI-Arena/tags/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/solution/</loc>
+    <loc>/AI-Arena/post/solution/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/solution/</loc>
+    <loc>/AI-Arena/tags/solution/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/demo/</loc>
+    <loc>/AI-Arena/tags/demo/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>/tags/shortcode/</loc>
+    <loc>/AI-Arena/tags/shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>/post/notice-shortcode/</loc>
+    <loc>/AI-Arena/post/notice-shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>/post/series-part-2/</loc>
+    <loc>/AI-Arena/post/series-part-2/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/series-part-1/</loc>
+    <loc>/AI-Arena/post/series-part-1/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/redirect/</loc>
+    <loc>/AI-Arena/tags/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/redirect/</loc>
+    <loc>/AI-Arena/post/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/redirecturl/</loc>
+    <loc>/AI-Arena/tags/redirecturl/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/AI-Arena/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/css/</loc>
+    <loc>/AI-Arena/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/html/</loc>
+    <loc>/AI-Arena/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/markdown/</loc>
+    <loc>/AI-Arena/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/markdown-syntax/</loc>
+    <loc>/AI-Arena/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/syntax/</loc>
+    <loc>/AI-Arena/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/themes/</loc>
+    <loc>/AI-Arena/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/placeholder-text/</loc>
+    <loc>/AI-Arena/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/text/</loc>
+    <loc>/AI-Arena/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>/AI-Arena/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/math-typesetting/</loc>
+    <loc>/AI-Arena/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/emoji/</loc>
+    <loc>/AI-Arena/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/emoji-support/</loc>
+    <loc>/AI-Arena/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/image-test/</loc>
+    <loc>/AI-Arena/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/thumbnail/</loc>
+    <loc>/AI-Arena/tags/thumbnail/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url>
 </urlset>
