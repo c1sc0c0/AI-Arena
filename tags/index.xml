@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>https://example.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
-      <link>https://example.org/tags/index/</link>
+      <link>/tags/index/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/index/</guid>
+      <guid>/tags/index/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Puzzle</title>
-      <link>https://example.org/tags/puzzle/</link>
+      <link>/tags/puzzle/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/puzzle/</guid>
+      <guid>/tags/puzzle/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Solution</title>
-      <link>https://example.org/tags/solution/</link>
+      <link>/tags/solution/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/solution/</guid>
+      <guid>/tags/solution/</guid>
       
         <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Demo</title>
-      <link>https://example.org/tags/demo/</link>
+      <link>/tags/demo/</link>
       <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
       
-      <guid>https://example.org/tags/demo/</guid>
+      <guid>/tags/demo/</guid>
       
         <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Shortcode</title>
-      <link>https://example.org/tags/shortcode/</link>
+      <link>/tags/shortcode/</link>
       <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
       
-      <guid>https://example.org/tags/shortcode/</guid>
+      <guid>/tags/shortcode/</guid>
       
         <description></description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Redirect</title>
-      <link>https://example.org/tags/redirect/</link>
+      <link>/tags/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/redirect/</guid>
+      <guid>/tags/redirect/</guid>
       
         <description></description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>RedirectUrl</title>
-      <link>https://example.org/tags/redirecturl/</link>
+      <link>/tags/redirecturl/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/redirecturl/</guid>
+      <guid>/tags/redirecturl/</guid>
       
         <description></description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>Css</title>
-      <link>https://example.org/tags/css/</link>
+      <link>/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/css/</guid>
+      <guid>/tags/css/</guid>
       
         <description></description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>Html</title>
-      <link>https://example.org/tags/html/</link>
+      <link>/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/html/</guid>
+      <guid>/tags/html/</guid>
       
         <description></description>
       
@@ -108,10 +108,10 @@
     
     <item>
       <title>Markdown</title>
-      <link>https://example.org/tags/markdown/</link>
+      <link>/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/markdown/</guid>
+      <guid>/tags/markdown/</guid>
       
         <description></description>
       
@@ -119,10 +119,10 @@
     
     <item>
       <title>Text</title>
-      <link>https://example.org/tags/text/</link>
+      <link>/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/text/</guid>
+      <guid>/tags/text/</guid>
       
         <description></description>
       
@@ -130,10 +130,10 @@
     
     <item>
       <title>Emoji</title>
-      <link>https://example.org/tags/emoji/</link>
+      <link>/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/emoji/</guid>
+      <guid>/tags/emoji/</guid>
       
         <description></description>
       
@@ -141,10 +141,10 @@
     
     <item>
       <title>Thumbnail</title>
-      <link>https://example.org/tags/thumbnail/</link>
+      <link>/tags/thumbnail/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/thumbnail/</guid>
+      <guid>/tags/thumbnail/</guid>
       
         <description></description>
       
