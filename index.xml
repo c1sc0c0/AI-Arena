@@ -87,5 +87,16 @@ Input (Task) Output (Solution) </description>
       
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/about/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
   </channel>
 </rss>
