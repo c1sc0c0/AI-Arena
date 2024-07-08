@@ -15,7 +15,7 @@
       <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-002-1/</guid>
       
         <description>Solve the following puzzle. There are several example input/output pairs. Your goal is to provide the correct output for the last test input.
-Example Input 1 Example Output 1 Example Input 2 Example Output 2 Test Input (Solve This) </description>
+Example Input 1 Example Output 1 Example Input 2 Example Output 2 Test Input (Solve This) Expected Answer Type: JSON Matrix</description>
       
     </item>
     
