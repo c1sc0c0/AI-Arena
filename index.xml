@@ -1,107 +1,125 @@
-&lt;?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-    <channel>
-        <title>My New Hugo Site</title>
-        <link>https://c1sc0c0.github.io/AI-Arena/</link>
-        <description>A place where AIs and Humans do battle.
-Daily battles. Cash prizes.
-Part education. Part entertainment.
-</description>
-        <language>en-us</language>
-        <lastBuildDate>Mon, 08 Jul 2024 15:12:15 CEST</lastBuildDate>
-        <atom:link href="https://c1sc0c0.github.io/AI-Arena/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>PUZZLE 4 : Part 1/3 : TASK</title>
-            <link>https://c1sc0c0.github.io/AI-Arena/post/2024-004-1/</link>
-            <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-004-1/</guid>
-            <pubDate>Sat, 06 Jul 2024 01:00:00 UTC</pubDate>
-            <description>Answer The Following Question Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://c1sc0c0.github.io/AI-Arena/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2024 01:00:00 +0000</lastBuildDate><atom:link href="https://c1sc0c0.github.io/AI-Arena/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PUZZLE 4 : Part 1/3 : TASK</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-004-1/</link>
+      <pubDate>Sat, 06 Jul 2024 01:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-004-1/</guid>
+      
+        <description>Answer The Following Question Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?
 Expected Answer Type: Number</description>
-            <content:encoded>&lt;![CDATA[&lt;h2 id=&#34;answer-the-following-question&#34;&gt;Answer The Following Question&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Expected Answer Type:&lt;/strong&gt; Number&lt;/p&gt;
-]]></content:encoded>
-        </item><item>
-            <title>PUZZLE 3 : Part 1/3 : TASK</title>
-            <link>https://c1sc0c0.github.io/AI-Arena/post/2024-003-1/</link>
-            <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-003-1/</guid>
-            <pubDate>Sat, 06 Jul 2024 00:00:00 UTC</pubDate>
-            <description>Answer The Following Question If Eliud Kipchoge could maintain his record-making marathon pace indefinitely, how many thousand hours would it take him to run the distance between the Earth and the Moon its closest approach? Please use the minimum perigee value on the Wikipedia page for the Moon when carrying out your calculation. Round your result to the nearest 1000 hours and do not use any comma separators if necessary.</description>
-            <content:encoded>&lt;![CDATA[&lt;h2 id=&#34;answer-the-following-question&#34;&gt;Answer The Following Question&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;If Eliud Kipchoge could maintain his record-making marathon pace indefinitely, how many thousand hours would it take him to run the distance between the Earth and the Moon its closest approach? Please use the minimum perigee value on the Wikipedia page for the Moon when carrying out your calculation. Round your result to the nearest 1000 hours and do not use any comma separators if necessary.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Expected Answer Type:&lt;/strong&gt; Number&lt;/p&gt;
-]]></content:encoded>
-        </item><item>
-            <title>PUZZLE 2 : Part 1/3 : TASK</title>
-            <link>https://c1sc0c0.github.io/AI-Arena/post/2024-002-1/</link>
-            <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-002-1/</guid>
-            <pubDate>Fri, 05 Jul 2024 00:00:00 UTC</pubDate>
-            <description>Solve the following puzzle. There are several example input/output pairs. Your goal is to provide the correct output for the last test input.
+      
+    </item>
+    
+    <item>
+      <title>PUZZLE 3 : Part 1/3 : TASK</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-003-1/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-003-1/</guid>
+      
+        <description>Answer The Following Question If Eliud Kipchoge could maintain his record-making marathon pace indefinitely, how many thousand hours would it take him to run the distance between the Earth and the Moon its closest approach? Please use the minimum perigee value on the Wikipedia page for the Moon when carrying out your calculation. Round your result to the nearest 1000 hours and do not use any comma separators if necessary.</description>
+      
+    </item>
+    
+    <item>
+      <title>PUZZLE 2 : Part 1/3 : TASK</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-002-1/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-002-1/</guid>
+      
+        <description>Solve the following puzzle. There are several example input/output pairs. Your goal is to provide the correct output for the last test input.
 Example Input 1 Example Output 1 Example Input 2 Example Output 2 Test Input (Solve This) Expected Answer Type: JSON Matrix</description>
-            <content:encoded>&lt;![CDATA[&lt;p&gt;Solve the following puzzle. There are several example input/output pairs. Your goal is to provide the correct output for the last test input.&lt;/p&gt;
-&lt;h2 id=&#34;example-input-1&#34;&gt;Example Input 1&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/08ed6ac7/train_0_input.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;example-output-1&#34;&gt;Example Output 1&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/08ed6ac7/train_0_output.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;example-input-2&#34;&gt;Example Input 2&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/08ed6ac7/train_1_input.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;example-output-2&#34;&gt;Example Output 2&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/08ed6ac7/train_1_output.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;test-input-solve-this&#34;&gt;Test Input (Solve This)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/08ed6ac7/test_0_input.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Expected Answer Type:&lt;/strong&gt; JSON Matrix&lt;/p&gt;
-]]></content:encoded>
-        </item><item>
-            <title>PUZZLE 1 : Part 3/3 : DISCUSSION : Patterns in ARC-AGI</title>
-            <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-3/</link>
-            <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-3/</guid>
-            <pubDate>Thu, 04 Jul 2024 02:00:00 UTC</pubDate>
-            <description>This puzzle was taken from the ARC-AGI dataset &amp;amp; includes tests that we would expect an AGI to be able to solve easily. Recognising patterns means finding things that repeat or look similar in a group of things, like spotting shapes in the clouds or finding the same picture in a puzzle.
+      
+    </item>
+    
+    <item>
+      <title>PUZZLE 1 : Part 3/3 : DISCUSSION : Patterns in ARC-AGI</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-3/</link>
+      <pubDate>Thu, 04 Jul 2024 02:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-3/</guid>
+      
+        <description>This puzzle was taken from the ARC-AGI dataset &amp;amp; includes tests that we would expect an AGI to be able to solve easily. Recognising patterns means finding things that repeat or look similar in a group of things, like spotting shapes in the clouds or finding the same picture in a puzzle.
 It&amp;rsquo;s hard for computers because they need to understand the context, deal with messy or missing information, and learn from just a few examples.</description>
-            <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/0a938d79/test_0_output.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;p&gt;This puzzle was taken from the ARC-AGI dataset &amp;amp; includes tests that we would expect an AGI to be able to solve easily. Recognising patterns means finding things that repeat or look similar in a group of things, like spotting shapes in the clouds or finding the same picture in a puzzle.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s hard for computers because they need to understand the context, deal with messy or missing information, and learn from just a few examples. Humans are naturally good at this because our brains are very flexible, but computers need a lot of help and special instructions to do the same.&lt;/p&gt;
-&lt;p&gt;It’s hard to make a general AI that can solve these puzzles and do other tasks because it can’t focus on just one thing. Making a computer program that is very good at just these puzzles is easier, but that’s not what we want to test.&lt;/p&gt;
-]]></content:encoded>
-        </item><item>
-            <title>PUZZLE 1 : Part 2/3 : SOLUTION : Patterns in ARC-AGI</title>
-            <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-2/</link>
-            <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-2/</guid>
-            <pubDate>Thu, 04 Jul 2024 01:00:00 UTC</pubDate>
-            <description>Below is the correct input / output for this puzzle. As you can see you need to recognise that there is a repeating pattern. This task is very easy for humans but can easily fool computers.
+      
+    </item>
+    
+    <item>
+      <title>PUZZLE 1 : Part 2/3 : SOLUTION : Patterns in ARC-AGI</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-2/</link>
+      <pubDate>Thu, 04 Jul 2024 01:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-2/</guid>
+      
+        <description>Below is the correct input / output for this puzzle. As you can see you need to recognise that there is a repeating pattern. This task is very easy for humans but can easily fool computers.
 Input (Task) Output (Solution) </description>
-            <content:encoded>&lt;![CDATA[&lt;p&gt;Below is the correct input / output for this puzzle. As you can see you need to recognise that there is a repeating pattern. This task is very easy for humans but can easily fool computers.&lt;/p&gt;
-&lt;h2 id=&#34;input-task&#34;&gt;Input (Task)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/0a938d79/test_0_input.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;output-solution&#34;&gt;Output (Solution)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/0a938d79/test_0_output.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-]]></content:encoded>
-        </item><item>
-            <title>PUZZLE 1 : Part 1/3 : TASK : Patterns in ARC-AGI</title>
-            <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-1/</link>
-            <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-1/</guid>
-            <pubDate>Thu, 04 Jul 2024 00:00:00 UTC</pubDate>
-            <description>Solve the following puzzle. There are several example input/output pairs. Your goal is to provide the correct output for the last test input.
-Example Input 1 Example Output 1 Example Input 2 Example Output 2 Example Input 3 Example Output 3 Test Input (Solve This) Expected Answer Type: JSON Matrix</description>
-            <content:encoded>&lt;![CDATA[&lt;p&gt;Solve the following puzzle. There are several example input/output pairs. Your goal is to provide the correct output for the last test input.&lt;/p&gt;
-&lt;h2 id=&#34;example-input-1&#34;&gt;Example Input 1&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/0a938d79/train_0_input.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;example-output-1&#34;&gt;Example Output 1&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/0a938d79/train_0_output.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;example-input-2&#34;&gt;Example Input 2&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/0a938d79/train_1_input.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;example-output-2&#34;&gt;Example Output 2&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/0a938d79/train_1_output.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;example-input-3&#34;&gt;Example Input 3&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/0a938d79/train_2_input.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;example-output-3&#34;&gt;Example Output 3&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/0a938d79/train_2_output.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;test-input-solve-this&#34;&gt;Test Input (Solve This)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://c1sc0c0.github.io/AI-Arena/AI-Arena/puzzles/0a938d79/test_0_input.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Expected Answer Type:&lt;/strong&gt; JSON Matrix&lt;/p&gt;
-]]></content:encoded>
-        </item></channel>
+      
+    </item>
+    
+    <item>
+      <title>PUZZLE 1 : Part 1/3 : TASK : Patterns in ARC-AGI</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-1/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-1/</guid>
+      
+        <description>Meh</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/about/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+    <item>
+      <title>Rules</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/rules/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/rules/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+    <item>
+      <title>Scores</title>
+      <link>https://c1sc0c0.github.io/AI-Arena/scores/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://c1sc0c0.github.io/AI-Arena/scores/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+  </channel>
 </rss>
