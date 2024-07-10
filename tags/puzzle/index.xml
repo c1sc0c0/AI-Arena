@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Puzzle on The AI Arena (ludi.life)</title>
-    <link>https://c1sc0c0.github.io/AI-Arena/tags/puzzle/</link>
+    <link>https://ludi.life/tags/puzzle/</link>
     <description>Recent content in Puzzle on The AI Arena (ludi.life)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jul 2024 01:00:00 +0000</lastBuildDate><atom:link href="https://c1sc0c0.github.io/AI-Arena/tags/puzzle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2024 01:00:00 +0000</lastBuildDate><atom:link href="https://ludi.life/tags/puzzle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PUZZLE 4 : Part 1/3 : TASK</title>
-      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-004-1/</link>
+      <link>https://ludi.life/post/2024-004-1/</link>
       <pubDate>Sat, 06 Jul 2024 01:00:00 +0000</pubDate>
       
-      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-004-1/</guid>
+      <guid>https://ludi.life/post/2024-004-1/</guid>
       
         <description>Answer The Following Question Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?
 Expected Answer Type: Number</description>
@@ -21,10 +21,10 @@ Expected Answer Type: Number</description>
     
     <item>
       <title>PUZZLE 3 : Part 1/3 : TASK</title>
-      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-003-1/</link>
+      <link>https://ludi.life/post/2024-003-1/</link>
       <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-003-1/</guid>
+      <guid>https://ludi.life/post/2024-003-1/</guid>
       
         <description>Answer The Following Question If Eliud Kipchoge could maintain his record-making marathon pace indefinitely, how many thousand hours would it take him to run the distance between the Earth and the Moon its closest approach? Please use the minimum perigee value on the Wikipedia page for the Moon when carrying out your calculation. Round your result to the nearest 1000 hours and do not use any comma separators if necessary.</description>
       
@@ -32,10 +32,10 @@ Expected Answer Type: Number</description>
     
     <item>
       <title>PUZZLE 2 : Part 1/3 : TASK</title>
-      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-002-1/</link>
+      <link>https://ludi.life/post/2024-002-1/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-002-1/</guid>
+      <guid>https://ludi.life/post/2024-002-1/</guid>
       
         <description>Solve the following puzzle. There are several example input/output pairs. Your goal is to provide the correct output for the last test input.
 Example Input 1 Example Output 1 Example Input 2 Example Output 2 Test Input (Solve This) Expected Answer Type: JSON Matrix</description>
@@ -44,10 +44,10 @@ Example Input 1 Example Output 1 Example Input 2 Example Output 2 Test Input (So
     
     <item>
       <title>PUZZLE 1 : Part 1/3 : TASK : Patterns in ARC-AGI</title>
-      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-1/</link>
+      <link>https://ludi.life/post/2024-001-1/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-1/</guid>
+      <guid>https://ludi.life/post/2024-001-1/</guid>
       
         <description>Meh</description>
       

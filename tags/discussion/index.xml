@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Discussion on The AI Arena (ludi.life)</title>
-    <link>https://c1sc0c0.github.io/AI-Arena/tags/discussion/</link>
+    <link>https://ludi.life/tags/discussion/</link>
     <description>Recent content in Discussion on The AI Arena (ludi.life)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jul 2024 02:00:00 +0000</lastBuildDate><atom:link href="https://c1sc0c0.github.io/AI-Arena/tags/discussion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jul 2024 02:00:00 +0000</lastBuildDate><atom:link href="https://ludi.life/tags/discussion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PUZZLE 1 : Part 3/3 : DISCUSSION : Patterns in ARC-AGI</title>
-      <link>https://c1sc0c0.github.io/AI-Arena/post/2024-001-3/</link>
+      <link>https://ludi.life/post/2024-001-3/</link>
       <pubDate>Thu, 04 Jul 2024 02:00:00 +0000</pubDate>
       
-      <guid>https://c1sc0c0.github.io/AI-Arena/post/2024-001-3/</guid>
+      <guid>https://ludi.life/post/2024-001-3/</guid>
       
         <description>This puzzle was taken from the ARC-AGI dataset &amp;amp; includes tests that we would expect an AGI to be able to solve easily. Recognising patterns means finding things that repeat or look similar in a group of things, like spotting shapes in the clouds or finding the same picture in a puzzle.
 It&amp;rsquo;s hard for computers because they need to understand the context, deal with messy or missing information, and learn from just a few examples.</description>
