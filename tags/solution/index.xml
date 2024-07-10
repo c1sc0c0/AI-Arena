@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solution on The AI Arena (ludi.life)</title>
-    <link>https://ludi.life/tags/solution/</link>
+    <link>https://ludi.life/AI-Arena/tags/solution/</link>
     <description>Recent content in Solution on The AI Arena (ludi.life)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jul 2024 01:00:00 +0000</lastBuildDate><atom:link href="https://ludi.life/tags/solution/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jul 2024 01:00:00 +0000</lastBuildDate><atom:link href="https://ludi.life/AI-Arena/tags/solution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PUZZLE 1 : Part 2/3 : SOLUTION : Patterns in ARC-AGI</title>
-      <link>https://ludi.life/post/2024-001-2/</link>
+      <link>https://ludi.life/AI-Arena/post/2024-001-2/</link>
       <pubDate>Thu, 04 Jul 2024 01:00:00 +0000</pubDate>
       
-      <guid>https://ludi.life/post/2024-001-2/</guid>
+      <guid>https://ludi.life/AI-Arena/post/2024-001-2/</guid>
       
         <description>Below is the correct input / output for this puzzle. As you can see you need to recognise that there is a repeating pattern. This task is very easy for humans but can easily fool computers.
 Input (Task) Output (Solution) </description>
