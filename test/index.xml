@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tests on The AI Arena (ludi.life)</title>
-    <link>https://ludi.life/AI-Arena/test/</link>
+    <link>https://ludi.life/test/</link>
     <description>Recent content in Tests on The AI Arena (ludi.life)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ludi.life/AI-Arena/test/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ludi.life/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://ludi.life/AI-Arena/test/toast/</link>
+      <link>https://ludi.life/test/toast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ludi.life/AI-Arena/test/toast/</guid>
+      <guid>https://ludi.life/test/toast/</guid>
       
         <description>Solve the following puzzle. There are several example input/output pairs. Your goal is to provide the correct output for the last test input.
 Example Input 1 Example Output 1 Test Input (Solve This) ## Example Input 2 Example Output 2 Test Input (Solve This) ## Example Input 3 Example Output 3 Test Input (Solve This) Expected Answer Type: JSON Matrix</description>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The AI Arena (ludi.life)</title>
-    <link>https://ludi.life/AI-Arena/categories/</link>
+    <link>https://ludi.life/categories/</link>
     <description>Recent content in Categories on The AI Arena (ludi.life)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ludi.life/AI-Arena/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ludi.life/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The AI Arena (ludi.life)</title>
-    <link>https://ludi.life/AI-Arena/tags/</link>
+    <link>https://ludi.life/tags/</link>
     <description>Recent content in Tags on The AI Arena (ludi.life)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jul 2024 01:00:00 +0000</lastBuildDate><atom:link href="https://ludi.life/AI-Arena/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2024 01:00:00 +0000</lastBuildDate><atom:link href="https://ludi.life/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dataset</title>
-      <link>https://ludi.life/AI-Arena/tags/dataset/</link>
+      <link>https://ludi.life/tags/dataset/</link>
       <pubDate>Sat, 06 Jul 2024 01:00:00 +0000</pubDate>
       
-      <guid>https://ludi.life/AI-Arena/tags/dataset/</guid>
+      <guid>https://ludi.life/tags/dataset/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>GSM8K</title>
-      <link>https://ludi.life/AI-Arena/tags/gsm8k/</link>
+      <link>https://ludi.life/tags/gsm8k/</link>
       <pubDate>Sat, 06 Jul 2024 01:00:00 +0000</pubDate>
       
-      <guid>https://ludi.life/AI-Arena/tags/gsm8k/</guid>
+      <guid>https://ludi.life/tags/gsm8k/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Index</title>
-      <link>https://ludi.life/AI-Arena/tags/index/</link>
+      <link>https://ludi.life/tags/index/</link>
       <pubDate>Sat, 06 Jul 2024 01:00:00 +0000</pubDate>
       
-      <guid>https://ludi.life/AI-Arena/tags/index/</guid>
+      <guid>https://ludi.life/tags/index/</guid>
       
         <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Math</title>
-      <link>https://ludi.life/AI-Arena/tags/math/</link>
+      <link>https://ludi.life/tags/math/</link>
       <pubDate>Sat, 06 Jul 2024 01:00:00 +0000</pubDate>
       
-      <guid>https://ludi.life/AI-Arena/tags/math/</guid>
+      <guid>https://ludi.life/tags/math/</guid>
       
         <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Puzzle</title>
-      <link>https://ludi.life/AI-Arena/tags/puzzle/</link>
+      <link>https://ludi.life/tags/puzzle/</link>
       <pubDate>Sat, 06 Jul 2024 01:00:00 +0000</pubDate>
       
-      <guid>https://ludi.life/AI-Arena/tags/puzzle/</guid>
+      <guid>https://ludi.life/tags/puzzle/</guid>
       
         <description></description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>GAIA</title>
-      <link>https://ludi.life/AI-Arena/tags/gaia/</link>
+      <link>https://ludi.life/tags/gaia/</link>
       <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ludi.life/AI-Arena/tags/gaia/</guid>
+      <guid>https://ludi.life/tags/gaia/</guid>
       
         <description></description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>ARC-AGI</title>
-      <link>https://ludi.life/AI-Arena/tags/arc-agi/</link>
+      <link>https://ludi.life/tags/arc-agi/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ludi.life/AI-Arena/tags/arc-agi/</guid>
+      <guid>https://ludi.life/tags/arc-agi/</guid>
       
         <description></description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>Discussion</title>
-      <link>https://ludi.life/AI-Arena/tags/discussion/</link>
+      <link>https://ludi.life/tags/discussion/</link>
       <pubDate>Thu, 04 Jul 2024 02:00:00 +0000</pubDate>
       
-      <guid>https://ludi.life/AI-Arena/tags/discussion/</guid>
+      <guid>https://ludi.life/tags/discussion/</guid>
       
         <description></description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>Solution</title>
-      <link>https://ludi.life/AI-Arena/tags/solution/</link>
+      <link>https://ludi.life/tags/solution/</link>
       <pubDate>Thu, 04 Jul 2024 01:00:00 +0000</pubDate>
       
-      <guid>https://ludi.life/AI-Arena/tags/solution/</guid>
+      <guid>https://ludi.life/tags/solution/</guid>
       
         <description></description>
       
