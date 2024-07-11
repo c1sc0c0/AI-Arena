@@ -9722,18 +9722,6 @@ Example Input 1 Example Output 1 Example Input 2 Example Output 2 Example Input 
     </item>
     
     <item>
-      <title></title>
-      <link>https://ludi.life/test/toast/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ludi.life/test/toast/</guid>
-      
-        <description>Solve the following puzzle. There are several example input/output pairs. Your goal is to provide the correct output for the last test input.
-Example Input 1 Example Output 1 Test Input (Solve This) ## Example Input 2 Example Output 2 Test Input (Solve This) ## Example Input 3 Example Output 3 Test Input (Solve This) Expected Answer Type: JSON Matrix</description>
-      
-    </item>
-    
-    <item>
       <title>Puzzle #00576224</title>
       <link>https://ludi.life/a/7jv8g1b7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
