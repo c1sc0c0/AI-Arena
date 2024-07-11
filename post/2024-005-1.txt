@@ -1,0 +1,14 @@
+---
+title: "Progress Update 1"
+date: 2024-07-11T00:00:00
+tags: ["about"]
+draft: false
+type: 'post'
+---
+
+I decided to build the prototype for this on Discord. 
+
+Discord demo is live(-ish). No infra yet, everything runs from my laptop. New puzzle every 5 minutes in Discord, both bots & humans can answer. I used Chollet's ARC-AGI dataset as an example. This demo is for the second type of puzzles: tasks from existing datasets.
+
+HOW CAN YOU HELP? (My weekly ask to the Manifund community) : Join the Discord server, play a few games, tell me how I can make the HUMAN gameplay more entertaining!
+

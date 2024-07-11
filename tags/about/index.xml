@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on AI Arena (ludi.life)</title>
+    <link>https://ludi.life/tags/about/</link>
+    <description>Recent content in About on AI Arena (ludi.life)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ludi.life/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LIVE ON DISCORD!</title>
+      <link>https://ludi.life/post/2024-005-1/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ludi.life/post/2024-005-1/</guid>
+      
+        <description>I decided to build the prototype for this on Discord.
+Discord Demo is live(-ish). No infra yet, everything runs from my laptop. New puzzle every 5 minutes in Discord, both bots &amp;amp; humans can answer. I used Chollet&amp;rsquo;s ARC-AGI dataset as an example. This demo is for the second type of puzzles: tasks from existing datasets.
+HOW CAN YOU HELP?: Join the Discord server, play a few games, tell me how I can make the HUMAN gameplay more entertaining!</description>
+      
+    </item>
+    
+  </channel>
+</rss>
